@@ -1,7 +1,12 @@
-Hi, I'm Rajat Saxena 👋  
-I'm a Data Analyst with an MBA in Financial Management from NMIMS, Mumbai. I specialize in SQL, Power BI, Excel, and Python — helping businesses turn raw data into clear, actionable insights.
+# 👋 Hi, I'm Rajat Saxena
 
-From designing dashboards to writing complex queries, I love making data simple, visual, and meaningful. I'm always curious, driven by challenges, and passionate about merging numbers with real-world impact.
+🎓 MBA in Financial Management (NMIMS, Mumbai)  
+📊 Data Analyst | SQL • Power BI • Excel • Python  
+🧠 3+ Years of Experience | 📁 200+ Projects Delivered  
 
-Let’s connect and turn your data into smart decisions!
+I turn raw data into clear, actionable insights through dashboards, reports, and analysis.  
+Passionate about simplifying data, solving problems, and driving smart decisions.  
 
+🚀 Always curious. Always up for a data challenge.  
+
+Let’s connect and turn your data into decisions! 🤝
